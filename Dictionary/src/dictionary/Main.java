@@ -51,7 +51,7 @@ public class Main {
         } while (i != 4);
 
         System.out.println("Спасиюо за использования словаря!)");
-
+        System.out.println("Changed for GitHub");
     }
 
 }
